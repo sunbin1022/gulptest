@@ -7,7 +7,7 @@
 
 使用之前先把 dist目录的文件删掉，因为那是 gulp 运行完任务生成的文件。
 进入项目目录后，运行以下命令
->npm install
+>npm install --save-dev jshint gulp-jshint
 
 安装完所有的依赖之后再执行下面的gulp 命令
 
